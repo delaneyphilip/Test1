@@ -1,10 +1,10 @@
 # This is a hello field
-rws_field1="Bonjour"
+rws_field1="Hello"
 # This is a some text field
-rws_field2="Voici du texte"
+rws_field2="Here is some text"
 # This is an additional text drop down menu
-rws_field3="Voici quelques autres textes"
+rws_field3="Here is some additional text"
 # This is a friday smiley
-rws_field4="Vendredi est mon jour préféré de la semaine"
+rws_field4="Friday is my favorite day of the week"
 # Some more context here
-rws_field5="Il y a % de jours dans une semaine"
+rws_field5="There are % days in a week"
